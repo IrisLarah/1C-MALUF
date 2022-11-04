@@ -28,8 +28,8 @@ p {
 
 }
 #imagem-principal {
-    width: 10%;
-    margin-left: 80%;
+    width: 15%;
+    margin-left: 50%;
     border: 5px dotted rgb(101, 55, 122);
     float: left;
     position: absolute;
