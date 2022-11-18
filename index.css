@@ -8,8 +8,8 @@ nav li {
 
 nav a{
     text-transform: uppercase;
-    color: rgba(255, 0, 221, 0.205);
-    background-color: #fcf815;
+    color: rgba(29, 212, 22, 0.87);
+    background-color: #fcf815d8;
 }
 
 .texto-principal {
@@ -24,7 +24,7 @@ h2 {
     color: rgb(6, 247, 247);
 }
 p {
-    color: rgba(0, 255, 21, 0.705);
+    color: rgba(173, 14, 102, 0.795);
 
 }
 #imagem-principal {
